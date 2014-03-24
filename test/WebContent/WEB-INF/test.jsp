@@ -6,6 +6,6 @@
     </head>
 
     <body>
-        <p><bold>Ceci est une page générée depuis une JSP.</bold></p>
+        <p>Ceci est une page générée depuis une JSP.</p>
     </body>
 </html>
